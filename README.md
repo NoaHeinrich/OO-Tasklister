@@ -44,3 +44,16 @@ For this project, we have two classes, each one representing a component of our 
 - Something of your choice! The main objective is to add a feature that allows the user's input to affect the DOM
 
 [example]: https://learn-co-curriculum.github.io/js-task-lister-lite/
+
+
+
+### Class Responsibilities
+
+# TaskList
+- Keeps track of all Tasks
+- Renders an unordered list of Tasks
+- Render an H2 Title "My To-Dos"
+
+# Task
+- Receive user input (a description)
+- Renders a list item and button
